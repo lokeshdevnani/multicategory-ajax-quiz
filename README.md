@@ -4,8 +4,14 @@ An interactive quiz web application with live server validation and multiple cat
 ## Screenshots
 This is what it looks like
 
+### Home Screen
 ![Quiz](screenshots/1.png)
 
+### Quiz
+![Quiz](screenshots/2.png)
+![Quiz](screenshots/3.png)
+
+### Results Screen 
 ![Quiz](screenshots/4.png)
 
 
