@@ -3,7 +3,11 @@ An interactive quiz web application with live server validation and multiple cat
 
 ## Screenshots
 This is what it looks like
-![Quiz](screenshots/1.jpg)
+
+![Quiz](screenshots/1.png)
+
+![Quiz](screenshots/4.png)
+
 
 ## Contribute
 + Report issues & add feature requests
