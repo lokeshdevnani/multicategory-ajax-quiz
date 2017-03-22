@@ -1,6 +1,6 @@
 <?php
 $db_host       = "127.0.0.1";
-$db_name       = "technolovers";
+$db_name       = "phpquiz";
 $db_user       = "root";
 $db_pass       = "lokesh";
 try{
